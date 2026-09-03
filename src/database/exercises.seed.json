@@ -1,0 +1,1782 @@
+[
+  {
+    "name": "Barbell Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "The foundational horizontal press for raw chest and pressing strength.",
+    "instructions": [
+      "Lie flat, grip just outside shoulder width",
+      "Lower bar to mid-chest with control",
+      "Press up until arms are extended"
+    ]
+  },
+  {
+    "name": "Svend Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Plate-squeeze press for inner-chest contraction.",
+    "instructions": [
+      "Press plates together at chest height",
+      "Press straight out keeping squeeze",
+      "Return under control"
+    ]
+  },
+  {
+    "name": "Incline Dumbbell Flyes",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Upper-chest isolation on an incline bench.",
+    "instructions": [
+      "Set bench to 30-45°",
+      "Lower arms wide until stretch is felt",
+      "Squeeze chest to bring dumbbells together"
+    ]
+  },
+  {
+    "name": "Close-Grip Barbell Bench Press",
+    "primaryMuscle": "triceps",
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Narrow-grip press that shifts emphasis onto the triceps.",
+    "instructions": [
+      "Grip just inside shoulder width",
+      "Lower bar to lower chest, elbows tucked",
+      "Press to lockout"
+    ]
+  },
+  {
+    "name": "Decline Dumbbell Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Lower-chest-focused press with a freer range of motion than the barbell decline.",
+    "instructions": [
+      "Secure legs on decline bench",
+      "Lower dumbbells to lower chest",
+      "Press up and slightly together"
+    ]
+  },
+  {
+    "name": "Incline Barbell Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Targets the upper chest with a 30-45° bench angle.",
+    "instructions": [
+      "Set bench to 30-45°",
+      "Lower bar to upper chest",
+      "Press up and slightly back"
+    ]
+  },
+  {
+    "name": "Decline Barbell Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Emphasizes the lower chest fibers.",
+    "instructions": [
+      "Secure legs on decline bench",
+      "Lower bar to lower chest",
+      "Press to lockout"
+    ]
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Greater range of motion and unilateral stability than barbell pressing.",
+    "instructions": [
+      "Press dumbbells up over chest",
+      "Lower with control to chest level",
+      "Keep wrists stacked over elbows"
+    ]
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Upper chest builder with a natural pressing arc.",
+    "instructions": [
+      "Set bench to 30-45°",
+      "Press dumbbells up and slightly together",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "primaryMuscle": "chest",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Isolation movement that stretches and contracts the pecs.",
+    "instructions": [
+      "Slight bend in elbows",
+      "Lower arms wide until stretch is felt",
+      "Squeeze chest to bring dumbbells together"
+    ]
+  },
+  {
+    "name": "Cable Crossover",
+    "primaryMuscle": "chest",
+    "equipment": "cable",
+    "difficulty": "intermediate",
+    "movementPattern": "isolation",
+    "description": "Constant-tension chest isolation from high pulley.",
+    "instructions": [
+      "Set pulleys above head height",
+      "Pull handles down and together",
+      "Squeeze at bottom, control the return"
+    ]
+  },
+  {
+    "name": "Chest Dips",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Bodyweight compound that heavily overloads the lower chest and triceps.",
+    "instructions": [
+      "Lean torso forward",
+      "Lower until stretch in chest",
+      "Press back to lockout"
+    ]
+  },
+  {
+    "name": "Push-Up",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "abs"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "The classic bodyweight chest and pressing builder.",
+    "instructions": [
+      "Hands slightly wider than shoulders",
+      "Lower chest to floor",
+      "Press back to start keeping core tight"
+    ]
+  },
+  {
+    "name": "Machine Chest Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Guided pressing pattern, good for controlled overload.",
+    "instructions": [
+      "Adjust seat so handles align with mid-chest",
+      "Press forward to extension",
+      "Return under control"
+    ]
+  },
+  {
+    "name": "Pec Deck Machine",
+    "primaryMuscle": "chest",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Fixed-path chest isolation.",
+    "instructions": [
+      "Elbows at shoulder height",
+      "Bring pads together",
+      "Control the return"
+    ]
+  },
+  {
+    "name": "Smith Machine Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "smith_machine",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Fixed-bar-path bench press variant.",
+    "instructions": [
+      "Unrack bar",
+      "Lower to chest",
+      "Press to lockout"
+    ]
+  },
+  {
+    "name": "Deadlift",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "hamstrings",
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "movementPattern": "hinge",
+    "description": "The king of posterior chain lifts.",
+    "instructions": [
+      "Hinge at hips, grip bar outside knees",
+      "Drive through floor, keep bar close",
+      "Lock out hips and knees together"
+    ]
+  },
+  {
+    "name": "Pull-Up",
+    "primaryMuscle": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "back"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "pull",
+    "description": "Vertical pull for width and grip strength.",
+    "instructions": [
+      "Hang with overhand grip",
+      "Pull chin above bar",
+      "Lower with control"
+    ]
+  },
+  {
+    "name": "Chin-Up",
+    "primaryMuscle": "lats",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "pull",
+    "description": "Underhand pull-up variant, more biceps emphasis.",
+    "instructions": [
+      "Hang with underhand grip",
+      "Pull chest to bar",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Bent-Over Barbell Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "pull",
+    "description": "Heavy horizontal pull for back thickness.",
+    "instructions": [
+      "Hinge to ~45°",
+      "Row bar to lower ribs",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Pendlay Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "lats"
+    ],
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "movementPattern": "pull",
+    "description": "Dead-stop row for explosive back power.",
+    "instructions": [
+      "Torso parallel to floor",
+      "Row bar explosively to chest",
+      "Reset each rep on floor"
+    ]
+  },
+  {
+    "name": "One-Arm Dumbbell Row",
+    "primaryMuscle": "lats",
+    "secondaryMuscles": [
+      "back",
+      "biceps"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Unilateral row for correcting imbalances.",
+    "instructions": [
+      "Support with one hand and knee",
+      "Row dumbbell to hip",
+      "Lower with control"
+    ]
+  },
+  {
+    "name": "Lat Pulldown",
+    "primaryMuscle": "lats",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Machine-assisted vertical pull, great for building toward pull-ups.",
+    "instructions": [
+      "Grip bar wide",
+      "Pull to upper chest",
+      "Control the return"
+    ]
+  },
+  {
+    "name": "Seated Cable Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Horizontal pull with constant cable tension.",
+    "instructions": [
+      "Sit tall, slight lean back",
+      "Row handle to abdomen",
+      "Extend arms with control"
+    ]
+  },
+  {
+    "name": "T-Bar Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "lats"
+    ],
+    "equipment": "machine",
+    "difficulty": "intermediate",
+    "movementPattern": "pull",
+    "description": "Loaded row for mid-back thickness.",
+    "instructions": [
+      "Straddle bar, hinge forward",
+      "Row handle to chest",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Face Pull",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "back",
+      "traps"
+    ],
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Rear-delt and upper-back health builder.",
+    "instructions": [
+      "Pull rope to face height",
+      "Externally rotate at the end",
+      "Return with control"
+    ]
+  },
+  {
+    "name": "Hyperextension",
+    "primaryMuscle": "lower_back",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "hinge",
+    "description": "Lower-back and posterior chain strengthener.",
+    "instructions": [
+      "Hinge at hips over pad",
+      "Lower torso with control",
+      "Raise to neutral spine, avoid hyperextending"
+    ]
+  },
+  {
+    "name": "Straight-Arm Pulldown",
+    "primaryMuscle": "lats",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Lat isolation with straight arms.",
+    "instructions": [
+      "Slight bend in elbows",
+      "Pull bar down to thighs",
+      "Control the return"
+    ]
+  },
+  {
+    "name": "Rack Pull",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "glutes",
+      "lower_back",
+      "traps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "movementPattern": "hinge",
+    "description": "Partial-range deadlift from pins, built for heavy back/trap overload.",
+    "instructions": [
+      "Set bar at knee height on rack pins",
+      "Drive through floor to lockout",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Meadows Row",
+    "primaryMuscle": "lats",
+    "secondaryMuscles": [
+      "back",
+      "biceps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "pull",
+    "description": "Unilateral landmine row for back thickness.",
+    "instructions": [
+      "Stand sideways to a landmine bar",
+      "Row bar to hip",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Chest-Supported Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Strict horizontal pull with the torso supported to remove momentum.",
+    "instructions": [
+      "Chest against pad",
+      "Row handles to torso",
+      "Lower with control"
+    ]
+  },
+  {
+    "name": "Overhead Barbell Press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Standing vertical press for total shoulder strength.",
+    "instructions": [
+      "Bar at collarbone",
+      "Press overhead to lockout",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Seated Dumbbell Shoulder Press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Seated variant for stability and shoulder isolation.",
+    "instructions": [
+      "Press dumbbells overhead",
+      "Lower to ear level",
+      "Repeat"
+    ]
+  },
+  {
+    "name": "Arnold Press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Rotational press hitting all three deltoid heads.",
+    "instructions": [
+      "Start palms facing you",
+      "Rotate and press overhead",
+      "Reverse on the way down"
+    ]
+  },
+  {
+    "name": "Lateral Raise",
+    "primaryMuscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Isolation for side delts and shoulder width.",
+    "instructions": [
+      "Slight bend in elbows",
+      "Raise to shoulder height",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Cable Lateral Raise",
+    "primaryMuscle": "shoulders",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Constant-tension side delt isolation.",
+    "instructions": [
+      "Cable at low pulley",
+      "Raise arm to the side",
+      "Lower with control"
+    ]
+  },
+  {
+    "name": "Front Raise",
+    "primaryMuscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Anterior delt isolation.",
+    "instructions": [
+      "Raise dumbbell to eye level",
+      "Keep slight elbow bend",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Rear Delt Fly",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "back"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Rear delt isolation for balanced shoulders.",
+    "instructions": [
+      "Hinge forward",
+      "Raise arms out to sides",
+      "Squeeze shoulder blades"
+    ]
+  },
+  {
+    "name": "Machine Shoulder Press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Guided overhead press.",
+    "instructions": [
+      "Adjust seat",
+      "Press handles overhead",
+      "Return under control"
+    ]
+  },
+  {
+    "name": "Upright Row",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "traps"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "pull",
+    "description": "Vertical pull for delts and traps.",
+    "instructions": [
+      "Pull bar up to chin height",
+      "Elbows lead the movement",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Shrugs",
+    "primaryMuscle": "traps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Trap isolation.",
+    "instructions": [
+      "Hold dumbbells at sides",
+      "Shrug shoulders straight up",
+      "Lower with control"
+    ]
+  },
+  {
+    "name": "Landmine Press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "triceps",
+      "chest"
+    ],
+    "equipment": "barbell",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Shoulder-friendly pressing angle using a landmine setup.",
+    "instructions": [
+      "Press bar up and forward from shoulder",
+      "Extend to lockout",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Reverse Pec Deck",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "back"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Machine-based rear delt isolation.",
+    "instructions": [
+      "Chest against pad",
+      "Push arms out and back",
+      "Squeeze shoulder blades"
+    ]
+  },
+  {
+    "name": "Barbell Curl",
+    "primaryMuscle": "biceps",
+    "equipment": "barbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "The classic mass builder for biceps.",
+    "instructions": [
+      "Elbows pinned to sides",
+      "Curl bar to shoulders",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Dumbbell Curl",
+    "primaryMuscle": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Unilateral biceps builder.",
+    "instructions": [
+      "Curl dumbbells up",
+      "Squeeze at top",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Hammer Curl",
+    "primaryMuscle": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Neutral-grip curl for brachialis and forearms.",
+    "instructions": [
+      "Neutral grip",
+      "Curl to shoulder",
+      "Lower with control"
+    ]
+  },
+  {
+    "name": "Preacher Curl",
+    "primaryMuscle": "biceps",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "isolation",
+    "description": "Strict biceps isolation on a preacher bench.",
+    "instructions": [
+      "Rest arms on pad",
+      "Curl to contraction",
+      "Lower fully under control"
+    ]
+  },
+  {
+    "name": "Cable Curl",
+    "primaryMuscle": "biceps",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Constant tension biceps builder.",
+    "instructions": [
+      "Curl handle up",
+      "Squeeze biceps",
+      "Return under control"
+    ]
+  },
+  {
+    "name": "Triceps Pushdown",
+    "primaryMuscle": "triceps",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "The go-to triceps isolation move.",
+    "instructions": [
+      "Elbows pinned to sides",
+      "Push bar down to extension",
+      "Control the return"
+    ]
+  },
+  {
+    "name": "Skull Crusher",
+    "primaryMuscle": "triceps",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "isolation",
+    "description": "Lying triceps extension for mass.",
+    "instructions": [
+      "Lower bar to forehead",
+      "Keep elbows still",
+      "Extend to lockout"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Extension",
+    "primaryMuscle": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Stretches the long head of the triceps.",
+    "instructions": [
+      "Lower dumbbell behind head",
+      "Extend to lockout",
+      "Control the descent"
+    ]
+  },
+  {
+    "name": "Dips (Triceps Focus)",
+    "primaryMuscle": "triceps",
+    "secondaryMuscles": [
+      "chest"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Upright dip variation emphasizing triceps.",
+    "instructions": [
+      "Stay upright",
+      "Lower to 90° elbow bend",
+      "Press to lockout"
+    ]
+  },
+  {
+    "name": "Wrist Curl",
+    "primaryMuscle": "forearms",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Forearm flexor isolation.",
+    "instructions": [
+      "Rest forearm on bench",
+      "Curl wrist up",
+      "Lower fully"
+    ]
+  },
+  {
+    "name": "Cable Overhead Triceps Extension",
+    "primaryMuscle": "triceps",
+    "secondaryMuscles": [],
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Constant-tension overhead triceps stretch and extension.",
+    "instructions": [
+      "Face away from low pulley",
+      "Extend arms overhead",
+      "Lower with control behind head"
+    ]
+  },
+  {
+    "name": "Diamond Push-Up",
+    "primaryMuscle": "triceps",
+    "secondaryMuscles": [
+      "chest"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Close-hand push-up variant that shifts load onto the triceps.",
+    "instructions": [
+      "Hands together forming a diamond",
+      "Lower chest to hands",
+      "Press back to lockout"
+    ]
+  },
+  {
+    "name": "Incline Dumbbell Curl",
+    "primaryMuscle": "biceps",
+    "secondaryMuscles": [],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "isolation",
+    "description": "Extra-stretch biceps curl from an incline bench.",
+    "instructions": [
+      "Sit back on an incline bench, arms hanging",
+      "Curl dumbbells up",
+      "Lower under full stretch"
+    ]
+  },
+  {
+    "name": "Concentration Curl",
+    "primaryMuscle": "biceps",
+    "secondaryMuscles": [],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Seated, braced curl for strict biceps peak contraction.",
+    "instructions": [
+      "Brace elbow against inner thigh",
+      "Curl dumbbell up",
+      "Lower fully under control"
+    ]
+  },
+  {
+    "name": "EZ-Bar Curl",
+    "primaryMuscle": "biceps",
+    "secondaryMuscles": [],
+    "equipment": "barbell",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Angled-grip curl variant, easier on the wrists than a straight bar.",
+    "instructions": [
+      "Elbows pinned to sides",
+      "Curl bar to shoulders",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Barbell Back Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "squat",
+    "description": "The king of lower-body compound lifts.",
+    "instructions": [
+      "Bar on upper back",
+      "Squat to depth",
+      "Drive up through heels"
+    ]
+  },
+  {
+    "name": "Front Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "abs"
+    ],
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "movementPattern": "squat",
+    "description": "Quad-dominant squat variant with an upright torso.",
+    "instructions": [
+      "Bar racked on front delts",
+      "Squat to depth staying upright",
+      "Drive up"
+    ]
+  },
+  {
+    "name": "Romanian Deadlift",
+    "primaryMuscle": "hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "hinge",
+    "description": "Hip-hinge for hamstring and glute development.",
+    "instructions": [
+      "Slight knee bend",
+      "Hinge hips back, bar close to legs",
+      "Drive hips forward to stand"
+    ]
+  },
+  {
+    "name": "Leg Press",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "squat",
+    "description": "Machine-based squat pattern with high loading capacity.",
+    "instructions": [
+      "Feet shoulder width on platform",
+      "Lower to 90°",
+      "Press to near lockout"
+    ]
+  },
+  {
+    "name": "Walking Lunge",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "lunge",
+    "description": "Unilateral leg builder with a stability component.",
+    "instructions": [
+      "Step forward into lunge",
+      "Drive through front heel to next step",
+      "Keep torso upright"
+    ]
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "lunge",
+    "description": "Rear-foot-elevated unilateral squat.",
+    "instructions": [
+      "Rear foot on bench",
+      "Lower until front thigh parallel",
+      "Drive up through front heel"
+    ]
+  },
+  {
+    "name": "Leg Extension",
+    "primaryMuscle": "quads",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Quad isolation on a machine.",
+    "instructions": [
+      "Extend legs fully",
+      "Squeeze quads at top",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Leg Curl",
+    "primaryMuscle": "hamstrings",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Hamstring isolation on a machine.",
+    "instructions": [
+      "Curl heels toward glutes",
+      "Squeeze hamstrings",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Hip Thrust",
+    "primaryMuscle": "glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "movementPattern": "hinge",
+    "description": "The premier glute-building movement.",
+    "instructions": [
+      "Upper back on bench, bar over hips",
+      "Drive hips up to full extension",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Hip Abduction Machine",
+    "primaryMuscle": "glutes",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Glute medius isolation.",
+    "instructions": [
+      "Push legs outward",
+      "Squeeze glutes",
+      "Return with control"
+    ]
+  },
+  {
+    "name": "Standing Calf Raise",
+    "primaryMuscle": "calves",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Calf builder through full range of motion.",
+    "instructions": [
+      "Rise onto toes",
+      "Pause at top",
+      "Lower until deep stretch"
+    ]
+  },
+  {
+    "name": "Seated Calf Raise",
+    "primaryMuscle": "calves",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Targets the soleus with a bent-knee position.",
+    "instructions": [
+      "Rise onto toes",
+      "Pause at top",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Goblet Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "squat",
+    "description": "Beginner-friendly loaded squat pattern.",
+    "instructions": [
+      "Hold dumbbell at chest",
+      "Squat to depth",
+      "Drive up"
+    ]
+  },
+  {
+    "name": "Hack Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": "machine",
+    "difficulty": "intermediate",
+    "movementPattern": "squat",
+    "description": "Machine squat with fixed bar path for quad overload.",
+    "instructions": [
+      "Shoulders under pads",
+      "Lower to depth",
+      "Press up"
+    ]
+  },
+  {
+    "name": "Adductor Machine",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Inner-thigh isolation.",
+    "instructions": [
+      "Sit with pads on inner thighs",
+      "Squeeze legs together",
+      "Return with control"
+    ]
+  },
+  {
+    "name": "Nordic Hamstring Curl",
+    "primaryMuscle": "hamstrings",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "difficulty": "advanced",
+    "movementPattern": "isolation",
+    "description": "Eccentric-focused bodyweight hamstring builder.",
+    "instructions": [
+      "Anchor ankles, kneel tall",
+      "Lower torso forward as slowly as possible",
+      "Catch yourself and push back up"
+    ]
+  },
+  {
+    "name": "Good Morning",
+    "primaryMuscle": "hamstrings",
+    "secondaryMuscles": [
+      "lower_back",
+      "glutes"
+    ],
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "movementPattern": "hinge",
+    "description": "Posterior-chain hinge with the bar racked on the back.",
+    "instructions": [
+      "Bar on upper back, soft knees",
+      "Hinge forward until hamstrings stretch",
+      "Drive hips forward to stand"
+    ]
+  },
+  {
+    "name": "Step-Up",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "lunge",
+    "description": "Unilateral leg builder using a box or bench.",
+    "instructions": [
+      "Drive through the lead foot onto the box",
+      "Stand tall at the top",
+      "Step down with control"
+    ]
+  },
+  {
+    "name": "Reverse Lunge",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "lunge",
+    "description": "Knee-friendly lunge variant stepping backward.",
+    "instructions": [
+      "Step back into a lunge",
+      "Lower until rear knee nearly taps floor",
+      "Drive through front heel to stand"
+    ]
+  },
+  {
+    "name": "Glute Bridge",
+    "primaryMuscle": "glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "hinge",
+    "description": "Beginner-friendly glute activation and builder.",
+    "instructions": [
+      "Lie on back, knees bent",
+      "Drive hips up, squeeze glutes",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Sumo Deadlift",
+    "primaryMuscle": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "quads",
+      "back"
+    ],
+    "equipment": "barbell",
+    "difficulty": "advanced",
+    "movementPattern": "hinge",
+    "description": "Wide-stance deadlift variant emphasizing glutes and inner thighs.",
+    "instructions": [
+      "Wide stance, toes out, grip inside knees",
+      "Drive through floor staying upright",
+      "Lock out hips and knees together"
+    ]
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "primaryMuscle": "abs",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "isolation",
+    "description": "Lower-abs builder from a dead hang.",
+    "instructions": [
+      "Hang from bar",
+      "Raise legs to hip height or higher",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Cable Crunch",
+    "primaryMuscle": "abs",
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Loaded ab flexion for progressive overload on abs.",
+    "instructions": [
+      "Kneel below pulley",
+      "Crunch down, elbows to knees",
+      "Return under control"
+    ]
+  },
+  {
+    "name": "Plank",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Isometric core stability builder.",
+    "instructions": [
+      "Forearms and toes on floor",
+      "Keep body in a straight line",
+      "Brace core throughout"
+    ]
+  },
+  {
+    "name": "Russian Twist",
+    "primaryMuscle": "obliques",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "rotation",
+    "description": "Rotational core exercise.",
+    "instructions": [
+      "Lean back slightly",
+      "Rotate torso side to side",
+      "Keep chest up"
+    ]
+  },
+  {
+    "name": "Ab Wheel Rollout",
+    "primaryMuscle": "abs",
+    "equipment": "bodyweight",
+    "difficulty": "advanced",
+    "movementPattern": "isolation",
+    "description": "Advanced anti-extension core exercise.",
+    "instructions": [
+      "Roll wheel forward keeping core braced",
+      "Stop before lower back sags",
+      "Pull back to start"
+    ]
+  },
+  {
+    "name": "Sit-Up",
+    "primaryMuscle": "abs",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Classic ab flexion movement.",
+    "instructions": [
+      "Anchor feet",
+      "Curl torso up",
+      "Lower under control"
+    ]
+  },
+  {
+    "name": "Weighted Decline Sit-Up",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "isolation",
+    "description": "Loaded sit-up on a decline bench for extra overload.",
+    "instructions": [
+      "Anchor feet on decline bench",
+      "Hold weight at chest",
+      "Curl up and lower under control"
+    ]
+  },
+  {
+    "name": "Mountain Climbers",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [
+      "cardio"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Dynamic core exercise with a cardio component.",
+    "instructions": [
+      "Start in a high plank",
+      "Drive knees to chest alternating quickly",
+      "Keep hips low and core braced"
+    ]
+  },
+  {
+    "name": "Power Clean",
+    "primaryMuscle": "full_body",
+    "secondaryMuscles": [
+      "back",
+      "quads",
+      "shoulders"
+    ],
+    "equipment": "olympic_lift",
+    "difficulty": "advanced",
+    "movementPattern": "hinge",
+    "description": "Explosive triple-extension pull to shoulders.",
+    "instructions": [
+      "Pull bar from floor explosively",
+      "Extend hips, shrug and pull under",
+      "Catch in front rack"
+    ]
+  },
+  {
+    "name": "Snatch",
+    "primaryMuscle": "full_body",
+    "secondaryMuscles": [
+      "back",
+      "shoulders",
+      "quads"
+    ],
+    "equipment": "olympic_lift",
+    "difficulty": "advanced",
+    "movementPattern": "hinge",
+    "description": "Full-body explosive pull from floor to overhead in one motion.",
+    "instructions": [
+      "Wide grip pull from floor",
+      "Extend explosively",
+      "Catch overhead in a squat"
+    ]
+  },
+  {
+    "name": "Kettlebell Swing",
+    "primaryMuscle": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "back"
+    ],
+    "equipment": "kettlebell",
+    "difficulty": "beginner",
+    "movementPattern": "hinge",
+    "description": "Ballistic hip-hinge for power and conditioning.",
+    "instructions": [
+      "Hinge and swing bell back",
+      "Snap hips forward to drive bell up",
+      "Let it float to shoulder height"
+    ]
+  },
+  {
+    "name": "Farmer’s Carry",
+    "primaryMuscle": "full_body",
+    "secondaryMuscles": [
+      "forearms",
+      "traps"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "movementPattern": "carry",
+    "description": "Loaded carry for grip, core, and total-body stability.",
+    "instructions": [
+      "Pick up heavy dumbbells",
+      "Walk with tall posture",
+      "Keep core braced throughout"
+    ]
+  },
+  {
+    "name": "Battle Ropes",
+    "primaryMuscle": "cardio",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "High-intensity conditioning tool.",
+    "instructions": [
+      "Alternate slamming ropes",
+      "Keep core braced",
+      "Maintain rhythm for interval duration"
+    ]
+  },
+  {
+    "name": "Rowing Machine",
+    "primaryMuscle": "cardio",
+    "secondaryMuscles": [
+      "back",
+      "quads"
+    ],
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Full-body cardio and conditioning.",
+    "instructions": [
+      "Drive with legs first",
+      "Lean back and pull handle to ribs",
+      "Reverse the sequence to return"
+    ]
+  },
+  {
+    "name": "Assault Bike",
+    "primaryMuscle": "cardio",
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "High-output conditioning machine.",
+    "instructions": [
+      "Pedal and push/pull handles",
+      "Maintain target pace or intervals"
+    ]
+  },
+  {
+    "name": "Treadmill Run",
+    "primaryMuscle": "cardio",
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Standard cardio conditioning.",
+    "instructions": [
+      "Set target pace/incline",
+      "Maintain steady form",
+      "Cool down gradually"
+    ]
+  },
+  {
+    "name": "Standing Cable Woodchopper",
+    "primaryMuscle": "obliques",
+    "equipment": "cable",
+    "difficulty": "intermediate",
+    "movementPattern": "rotation",
+    "description": "Rotational power for the obliques.",
+    "instructions": [
+      "Pull cable diagonally across body",
+      "Rotate through the core",
+      "Return under control"
+    ]
+  },
+  {
+    "name": "Box Jump",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "squat",
+    "description": "Explosive lower-body power builder.",
+    "instructions": [
+      "Load into a quarter squat",
+      "Jump onto box, land soft",
+      "Step down and reset"
+    ]
+  },
+  {
+    "name": "Machine Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "A guided horizontal row that isolates the back with a stable, beginner-friendly path.",
+    "instructions": [
+      "Sit and grip the handles with chest against the pad",
+      "Pull handles toward torso, squeezing shoulder blades",
+      "Extend arms with control back to the start"
+    ]
+  },
+  {
+    "name": "Assisted Pull-Up",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "movementPattern": "pull",
+    "description": "Machine- or band-assisted pull-up that builds toward a full bodyweight pull-up.",
+    "instructions": [
+      "Set assistance weight/band to offset bodyweight",
+      "Grip bar and pull chin over the bar",
+      "Lower under control to full arm extension"
+    ]
+  },
+  {
+    "name": "Incline Push-Up",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "push",
+    "description": "Hands-elevated push-up variation that reduces load, good for beginners.",
+    "instructions": [
+      "Place hands on a bench or elevated surface",
+      "Lower chest toward the surface keeping core tight",
+      "Press back up to full extension"
+    ]
+  },
+  {
+    "name": "Decline Push-Up",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "Feet-elevated push-up that shifts more load to the upper chest and shoulders.",
+    "instructions": [
+      "Place feet on a bench, hands on the floor",
+      "Lower chest toward the floor with control",
+      "Press back up to full extension"
+    ]
+  },
+  {
+    "name": "Cable Fly",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "cable",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Constant-tension chest isolation using dual cable stacks.",
+    "instructions": [
+      "Set pulleys to chest height and grip handles",
+      "Bring hands together in a wide arc, squeezing the chest",
+      "Return under control to the start"
+    ]
+  },
+  {
+    "name": "Side Plank",
+    "primaryMuscle": "obliques",
+    "secondaryMuscles": [
+      "abs",
+      "shoulders"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Static core hold that targets the obliques and lateral core stability.",
+    "instructions": [
+      "Lie on one side, prop up on forearm with elbow under shoulder",
+      "Lift hips so body forms a straight line",
+      "Hold, keeping hips level, then switch sides"
+    ]
+  },
+  {
+    "name": "Dead Bug",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [
+      "lower_back"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Anti-extension core drill that trains stability while limbs move independently.",
+    "instructions": [
+      "Lie on back, arms up and knees bent at 90 degrees",
+      "Lower opposite arm and leg toward the floor while bracing the core",
+      "Return to start and alternate sides"
+    ]
+  },
+  {
+    "name": "Crunches",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Classic short-range abdominal flexion movement.",
+    "instructions": [
+      "Lie on back with knees bent, hands lightly behind head",
+      "Curl shoulders off the floor, squeezing the abs",
+      "Lower with control back to the start"
+    ]
+  },
+  {
+    "name": "Reverse Crunch",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [
+      "lower_back"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Lower-abs focused crunch that curls the hips toward the ribcage.",
+    "instructions": [
+      "Lie on back with knees bent, hands by your sides",
+      "Curl hips up and knees toward chest using the lower abs",
+      "Lower legs back down with control"
+    ]
+  },
+  {
+    "name": "Leg Raises",
+    "primaryMuscle": "abs",
+    "secondaryMuscles": [
+      "hip_flexors"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "isolation",
+    "description": "Lying leg raise that targets the lower abdominals through hip flexion.",
+    "instructions": [
+      "Lie flat with legs straight and hands under lower back",
+      "Raise legs to vertical keeping them straight",
+      "Lower with control without letting them touch the floor"
+    ]
+  },
+  {
+    "name": "Bicycle Crunch",
+    "primaryMuscle": "obliques",
+    "secondaryMuscles": [
+      "abs"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "rotation",
+    "description": "Rotational crunch that alternates elbow-to-knee for obliques and abs.",
+    "instructions": [
+      "Lie on back, hands behind head, knees bent",
+      "Bring opposite elbow to opposite knee while extending the other leg",
+      "Alternate sides in a smooth pedaling motion"
+    ]
+  },
+  {
+    "name": "Dumbbell Split Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "movementPattern": "lunge",
+    "description": "Stationary split-stance squat that builds single-leg strength and stability.",
+    "instructions": [
+      "Step into a staggered stance holding dumbbells at your sides",
+      "Lower back knee toward the floor keeping torso upright",
+      "Drive through the front heel to return to start"
+    ]
+  },
+  {
+    "name": "Jump Rope",
+    "primaryMuscle": "cardio",
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "carry",
+    "description": "Classic conditioning drill for footwork, coordination and cardio capacity.",
+    "instructions": [
+      "Hold rope handles at hip height",
+      "Turn the rope with wrists and hop lightly over it",
+      "Maintain a steady rhythm for the target duration"
+    ]
+  },
+  {
+    "name": "Treadmill Walk",
+    "primaryMuscle": "cardio",
+    "secondaryMuscles": [
+      "quads",
+      "calves"
+    ],
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "carry",
+    "description": "Low-impact steady-state cardio, great for warm-ups or active recovery.",
+    "instructions": [
+      "Set a comfortable incline and speed",
+      "Walk with an upright posture and controlled breathing",
+      "Adjust pace/incline to hit the target effort"
+    ]
+  },
+  {
+    "name": "Stationary Bike",
+    "primaryMuscle": "cardio",
+    "secondaryMuscles": [
+      "quads",
+      "hamstrings",
+      "glutes"
+    ],
+    "equipment": "cardio",
+    "difficulty": "beginner",
+    "movementPattern": "carry",
+    "description": "Low-impact cycling for cardio conditioning and active recovery.",
+    "instructions": [
+      "Adjust seat height so knees have a slight bend at full extension",
+      "Pedal at a steady cadence for the target duration",
+      "Increase resistance to raise intensity"
+    ]
+  },
+  {
+    "name": "Burpee",
+    "primaryMuscle": "full_body",
+    "secondaryMuscles": [
+      "chest",
+      "quads",
+      "cardio"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "movementPattern": "push",
+    "description": "High-intensity full-body movement combining a squat, plank, push-up and jump.",
+    "instructions": [
+      "Drop into a squat and place hands on the floor",
+      "Kick feet back into a plank, optionally do a push-up",
+      "Jump feet back in and explode upward into a jump"
+    ]
+  },
+  {
+    "name": "Jumping Jacks",
+    "primaryMuscle": "cardio",
+    "secondaryMuscles": [
+      "shoulders",
+      "calves"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "carry",
+    "description": "Simple full-body cardio warm-up movement.",
+    "instructions": [
+      "Start standing with feet together and arms at sides",
+      "Jump feet out while raising arms overhead",
+      "Jump back to the start position and repeat"
+    ]
+  },
+  {
+    "name": "Bodyweight Squat",
+    "primaryMuscle": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "movementPattern": "squat",
+    "description": "Foundational squat pattern using just bodyweight — great for warm-ups or beginners.",
+    "instructions": [
+      "Stand with feet shoulder-width apart",
+      "Sit hips back and down keeping chest up",
+      "Drive through the heels to stand back up"
+    ]
+  }
+]
